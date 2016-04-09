@@ -1,4 +1,4 @@
-# sublime text 2介绍
+# sublime text 3介绍
 
 标签（空格分隔）： sublime
 
